@@ -1,0 +1,94 @@
+:root{--cream:#f7f0e3;--paper:#fbf7ef;--ink:#3b2a1a;--soft:#6b5640;--gold:#a8782c;--gold2:#c9a25a;--green:#4c5b34}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;background:var(--cream);color:var(--ink);font:18px/1.7 Lora,Georgia,serif}
+img{max-width:100%;height:auto;display:block}
+a{color:var(--gold)}a:focus-visible,.btn:focus-visible{outline:3px solid var(--green);outline-offset:3px}
+.skip{position:absolute;left:-999px}.skip:focus{left:8px;top:8px;background:#fff;padding:8px;z-index:9}
+h1,h2,h3{font-family:'EB Garamond',Georgia,serif;font-weight:600;line-height:1.2;color:var(--ink)}
+.masthead{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:.5rem 1.5rem;padding:.75rem 1.25rem;background:var(--paper);border-bottom:1px solid #e3d5bd}
+.brand{display:flex;align-items:center;gap:.6rem;text-decoration:none;color:var(--ink);font:600 1.35rem 'EB Garamond',serif}
+.brand img{border-radius:50%}.brand em{color:var(--gold);font-style:italic;font-weight:400}
+.nav{display:flex;flex-wrap:wrap;gap:.25rem 1.1rem;font-size:.95rem}
+.nav a{color:var(--soft);text-decoration:none;padding:.2rem 0;border-bottom:2px solid transparent}
+.nav a:hover,.nav a[aria-current]{color:var(--ink);border-color:var(--gold2)}
+.hero{background:linear-gradient(180deg,rgba(40,26,10,.55),rgba(40,26,10,.72)),var(--bg) center/cover;color:#fff8ea;text-align:center;padding:4.5rem 1.25rem 5rem}
+.hero-inner{max-width:52rem;margin:auto}
+.hero-logo{margin:0 auto 1rem;border-radius:50%;border:2px solid var(--gold2);width:84px}
+.eyebrow{font:italic 1.15rem 'EB Garamond',serif;color:#f1d79b;letter-spacing:.04em;margin:0}
+.hero h1{color:#fff8ea;font-size:clamp(1.9rem,4.6vw,3.1rem);margin:.4rem 0 1rem;text-shadow:0 2px 12px rgba(0,0,0,.4)}
+.lede{font-size:1.1rem;max-width:40rem;margin:0 auto 1.8rem;color:#f4e8d2}
+.ctas{display:flex;flex-wrap:wrap;gap:.8rem;justify-content:center}
+.btn{display:inline-block;background:var(--gold);color:#fff;text-decoration:none;font:600 1.05rem Lora,serif;padding:.8rem 1.6rem;border-radius:999px;border:2px solid var(--gold);box-shadow:0 4px 14px rgba(0,0,0,.18)}
+.btn:hover{background:#8f6420}.btn.ghost{background:transparent;border-color:#f1d79b;color:#fff8ea}
+section{padding:3.5rem 1.25rem}section>h2{text-align:center;font-size:2.1rem;margin:.3rem 0 1.2rem}
+
+.big{font:italic 1.45rem/1.5 'EB Garamond',serif;color:var(--ink)}
+.orn{display:flex;align-items:center;justify-content:center;gap:.8rem;color:var(--gold2);font-size:1.1rem}
+.orn span{display:block;width:70px;height:1px;background:var(--gold2)}
+.tint{background:var(--paper);border-block:1px solid #e3d5bd}
+.feature-pair{display:grid;gap:1.75rem;max-width:62rem;margin:auto;grid-template-columns:1fr}
+@media(min-width:760px){.feature-pair{grid-template-columns:1fr 1fr}}
+figure{margin:0;background:#fff;padding:.7rem;border:1px solid #e6d8c0;box-shadow:0 6px 18px rgba(80,50,10,.1)}
+figcaption{padding:.7rem .3rem .2rem;display:flex;flex-direction:column}
+figcaption b{font:600 1.3rem 'EB Garamond',serif}figcaption span{color:var(--soft);font-size:.9rem}
+.yt{position:relative;display:block;aspect-ratio:16/9;overflow:hidden;background:#000}
+.yt img{width:100%;height:100%;object-fit:cover}
+.yt-play{position:absolute;inset:0;margin:auto;width:68px;height:48px;border-radius:12px;background:rgba(168,120,44,.92)}
+.yt-play:after{content:"";position:absolute;left:27px;top:14px;border:10px solid transparent;border-left:17px solid #fff}
+.yt-frame{width:100%;aspect-ratio:16/9;border:0;display:block}
+.more-songs{list-style:none;padding:0;max-width:62rem;margin:2rem auto;display:grid;gap:.6rem 1.5rem;grid-template-columns:1fr;text-align:center}
+@media(min-width:640px){.more-songs{grid-template-columns:repeat(5,1fr)}}
+.more-songs li{padding:.5rem;border-top:1px solid #e3d5bd}.more-songs a{font:600 1.08rem 'EB Garamond',serif;text-decoration:none;color:var(--ink);display:block}.more-songs span{color:var(--soft);font-size:.85rem}
+.center{text-align:center}
+.framed-bg{background:linear-gradient(rgba(247,240,227,.9),rgba(247,240,227,.9)),var(--framed) center/cover}
+.panel{max-width:58rem;margin:auto;background:var(--paper);border:1px solid #dcc7a3;padding:2.25rem 1.5rem;text-align:center;outline:6px double #e3d1ae;outline-offset:-14px}
+.panel h2{font-size:2rem;margin-top:0}
+.aud{list-style:none;padding:0;display:grid;gap:1rem;text-align:left;grid-template-columns:1fr;margin-top:1.5rem}
+@media(min-width:760px){.aud{grid-template-columns:1fr 1fr}}
+.aud h3{margin:0;font-size:1.25rem;color:var(--green)}.aud p{margin:.2rem 0 0;font-size:.95rem;color:var(--soft)}
+.email{font-size:1.25rem;font-weight:600}.contact-lines span{color:var(--soft);font-size:.95rem}
+.site-footer{background:#2f2215;color:#e8d9bf;text-align:center;padding:2rem 1.25rem;font-size:.95rem}
+.site-footer a{color:#f1d79b}.foot-nav{display:flex;flex-wrap:wrap;justify-content:center;gap:.4rem 1.2rem;margin-bottom:.8rem}
+.foot-nav a{text-decoration:none}.small{font-size:.8rem;opacity:.8}
+
+.narrow{max-width:46rem;margin:auto}.center{text-align:center}
+.text-link{font-weight:600;text-decoration:none;border-bottom:1px solid var(--gold2)}
+.hero-sm{padding:3.5rem 1.25rem 3.75rem}.hero-sm h1{font-size:clamp(2rem,5vw,3rem)}.hero-sm .lede{margin-bottom:0}
+.btn.outline{background:transparent;color:var(--gold);box-shadow:none}.btn.outline:hover{background:var(--gold);color:#fff}
+.eyebrow-dark{font:italic 1.15rem 'EB Garamond',serif;color:var(--gold);margin:0}
+.mission{font:600 clamp(1.5rem,3.4vw,2.2rem)/1.3 'EB Garamond',serif;color:var(--ink);margin:.4rem 0 1rem}
+.steps{display:grid;gap:1.25rem;margin-top:1rem}
+.steps>div{background:var(--paper);border:1px solid #e3d5bd;padding:1.25rem 1.4rem;border-left:4px solid var(--gold2)}
+.steps h3{margin:0 0 .3rem;font-size:1.4rem;color:var(--green)}.steps p{margin:0}
+.library{max-width:72rem;margin:auto;padding:2rem 1.25rem 3.5rem}
+.jump{display:flex;flex-wrap:wrap;justify-content:center;gap:.5rem;position:sticky;top:0;z-index:4;background:rgba(247,240,227,.96);padding:.75rem 0;border-bottom:1px solid #e3d5bd}
+.jump a{font:600 1rem 'EB Garamond',serif;text-decoration:none;color:var(--ink);border:1px solid #dcc7a3;border-radius:999px;padding:.2rem .8rem;background:var(--paper)}
+.jump a:hover{background:var(--gold);color:#fff;border-color:var(--gold)}
+.small-note{color:var(--soft);font-size:.95rem}
+.book{padding:2rem 0 .5rem;scroll-margin-top:4.5rem}
+.book h2{font-size:2rem;margin:0 0 1rem;display:flex;align-items:center;gap:1rem}
+.book h2:after{content:"";flex:1;height:1px;background:var(--gold2)}
+.song-grid{list-style:none;padding:0;margin:0;display:grid;gap:1.25rem;grid-template-columns:1fr}
+@media(min-width:620px){.song-grid{grid-template-columns:1fr 1fr}}@media(min-width:980px){.song-grid{grid-template-columns:repeat(3,1fr)}}
+.song-card{background:#fff;border:1px solid #e6d8c0;padding:.6rem;box-shadow:0 4px 14px rgba(80,50,10,.08)}
+.song-meta{padding:.6rem .3rem .3rem}.song-meta h3{margin:0;font-size:1.3rem}.song-meta .ref{margin:0 0 .4rem;color:var(--soft);font-size:.9rem}
+.song-meta .text-link{font-size:.9rem}
+.settings{display:grid;gap:1.25rem;max-width:66rem;margin:auto;grid-template-columns:1fr}
+@media(min-width:760px){.settings{grid-template-columns:1fr 1fr}}
+.setting{background:var(--paper);border:1px solid #e3d5bd;padding:1.4rem 1.5rem;border-top:4px solid var(--gold2)}
+.setting h3{margin:0 0 .5rem;font-size:1.45rem;color:var(--green)}.setting ul{margin:0;padding-left:1.2rem}.setting li{margin:.3rem 0}
+.more-songs.six{max-width:52rem}@media(min-width:640px){.more-songs.six{grid-template-columns:repeat(3,1fr)}}
+.tips{list-style:none;padding:0;display:grid;gap:.8rem}.tips li{border-bottom:1px solid #e3d5bd;padding:.6rem 0}.tips b{font-family:'EB Garamond',serif;font-size:1.2rem;color:var(--green)}
+.big-email{font-size:clamp(1.2rem,4.5vw,1.7rem);word-break:break-word}
+address{font:italic 1.4rem/1.6 'EB Garamond',serif}
+.narrowpanel{max-width:30rem}
+.foot-tag{font:italic 1.05rem 'EB Garamond',serif;color:#f1d79b;margin:.2rem 0}
+
+/* picture labels (Scripture source of the words shown in each song picture) */
+.pic-label{margin:.35rem .2rem 0;font:italic .82rem/1.35 Lora,serif;color:var(--soft)}
+figure .pic-label{margin-top:.45rem}
+.kjv-note{max-width:46rem;margin:.6rem auto}
+ol.song-grid{list-style:none}
+/* play badge sits in the corner so it never covers the words on a picture */
+.yt-play{inset:auto;top:10px;right:10px;margin:0;width:52px;height:36px;border-radius:10px}
+.yt-play:after{left:20px;top:9px;border-width:9px 0 9px 15px;border-style:solid;border-color:transparent transparent transparent #fff}
