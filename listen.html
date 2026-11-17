@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Listen · Singing Scripture</title>
+<meta name="description" content="Listen to sung King James Scripture — playlists, a sleep timer, and lock-screen controls, with no mid-roll ads.">
+<meta name="theme-color" content="#3b2a1a">
+<link rel="canonical" href="https://singingscripturebible.com/listen.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Singing Scripture">
+<meta property="og:url" content="https://singingscripturebible.com/listen.html">
+<meta property="og:title" content="Listen · Singing Scripture">
+<meta property="og:description" content="Listen to sung King James Scripture — playlists, a sleep timer, and lock-screen controls, with no mid-roll ads.">
+<meta property="og:image" content="https://singingscripturebible.com/assets/img/hero-green-pastures-1280.webp">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://singingscripturebible.com/#org", "name": "Singing Scripture Bible LLC", "url": "https://singingscripturebible.com/", "email": "songs@singingscripturebible.com", "address": {"@type": "PostalAddress", "postOfficeBoxNumber": "2104", "addressLocality": "Oshkosh", "addressRegion": "WI", "postalCode": "54903", "addressCountry": "US"}, "sameAs": ["https://www.youtube.com/@SingingScriptureBible"]}, {"@type": "WebSite", "@id": "https://singingscripturebible.com/#site", "name": "Singing Scripture", "url": "https://singingscripturebible.com/", "publisher": {"@id": "https://singingscripturebible.com/#org"}, "inLanguage": "en"}]}</script>
+<link rel="icon" href="assets/img/favicon-64.png">
+<style>@font-face{font-family:'EB Garamond';src:url('assets/fonts/eb-garamond-400-normal.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:'EB Garamond';src:url('assets/fonts/eb-garamond-600-normal.woff2') format('woff2');font-weight:600;font-style:normal;font-display:swap}@font-face{font-family:'EB Garamond';src:url('assets/fonts/eb-garamond-400-italic.woff2') format('woff2');font-weight:400;font-style:italic;font-display:swap}@font-face{font-family:'Lora';src:url('assets/fonts/lora-400-normal.woff2') format('woff2');font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:'Lora';src:url('assets/fonts/lora-600-normal.woff2') format('woff2');font-weight:600;font-style:normal;font-display:swap}@font-face{font-family:'Lora';src:url('assets/fonts/lora-400-italic.woff2') format('woff2');font-weight:400;font-style:italic;font-display:swap}:root{--framed:url('assets/img/hero-tree-river-800.webp')}</style>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="assets/player.css">
+</head>
+<body class="listen-page">
+<a class="skip" href="#main">Skip to content</a>
+<header class="masthead">
+  <a class="brand" href="index.html"><img src="assets/img/logo-circle-256.webp" width="48" height="48" alt=""><span>Singing Scripture</span></a>
+  <nav class="nav" aria-label="Main"><a href="index.html">Home</a><a href="about.html">About</a><a href="songs.html">Songs</a><a href="listen.html" aria-current=page>Listen</a><a href="playlists.html">Playlists</a><a href="churches-schools.html">For Churches &amp; Schools</a><a href="contact.html">Contact</a></nav>
+</header>
+<main id="main">
+
+<section class="hero hero-sm" style="--bg:url('assets/img/hero-hills-path-1280.webp')"><div class="hero-inner"><p class="eyebrow">God&#x27;s Word, carried on a melody</p><h1>Listen</h1><p class="lede">Sung Scripture you can play in the background, with a sleep timer and lock-screen controls, and no mid-roll ads.</p></div></section>
+<section>
+  <p class="note-box">Play a passage here while you work or rest. You can also <a class="text-link" href="songs.html">watch the songs</a> on this site or on YouTube.</p>
+  <p class="note-box">Song plays are counted anonymously. No cookies, no personal information.</p>
+  <p id="player-error" class="note-box" hidden role="alert"></p>
+  <article class="now-playing" aria-labelledby="now-title">
+    <figure class="now-art" id="now-art"><img src="assets/img/songs/K2K1Wu4t5ic-yt-640.webp" width="640" height="360" alt=""></figure>
+    <div class="now-copy">
+      <p class="eyebrow-dark">Now playing</p>
+      <h2 id="now-title">Let Us Make Man</h2>
+      <p class="ref" id="now-passage">Genesis 1:24–2:3</p>
+      <div class="time-row">
+        <span id="time-cur">0:00</span>
+        <input id="seek" class="seek" type="range" min="0" max="0" value="0" step="0.1" aria-label="Seek">
+        <span id="time-dur">0:00</span>
+      </div>
+      <div class="controls">
+        <button type="button" class="icon-btn" id="btn-prev" aria-label="Previous">⟨⟨</button>
+        <button type="button" class="icon-btn play" id="btn-play" aria-label="Play">▶</button>
+        <button type="button" class="icon-btn" id="btn-next" aria-label="Next">⟩⟩</button>
+        <label class="vol-group">Volume
+          <input id="volume" type="range" min="0" max="1" step="0.01" value="0.9" aria-label="Volume">
+        </label>
+        <label class="sleep-group">Sleep timer
+          <select id="sleep-timer" aria-label="Sleep timer">
+            <option value="0" selected>Off</option>
+            <option value="15">15 minutes</option>
+            <option value="30">30 minutes</option>
+            <option value="45">45 minutes</option>
+            <option value="60">60 minutes</option>
+          </select>
+          <span class="sleep-left" id="sleep-left" aria-live="polite"></span>
+        </label>
+      </div>
+      <p class="yt-mini"><a class="text-link" id="now-yt" href="https://www.youtube.com/watch?v=K2K1Wu4t5ic">Watch this passage on YouTube ›</a></p>
+    </div>
+  </article>
+  <div class="playlist-wrap">
+    <div class="playlist-tabs" id="playlist-tabs" role="tablist" aria-label="Playlists"></div>
+    <p class="playlist-note" id="playlist-note"></p>
+    <ol class="track-list" id="track-list"></ol>
+  </div>
+</section>
+<div class="dock" role="region" aria-label="Player">
+  <div class="dock-track">
+    <img id="dock-art" src="assets/img/songs/K2K1Wu4t5ic-yt-640.webp" width="48" height="48" alt="">
+    <div>
+      <strong id="dock-title">Let Us Make Man</strong>
+      <span id="dock-passage">Genesis 1:24–2:3</span>
+    </div>
+  </div>
+  <div class="dock-controls">
+    <button type="button" class="icon-btn" id="dock-prev" aria-label="Previous">⟨⟨</button>
+    <button type="button" class="icon-btn play" id="dock-play" aria-label="Play">▶</button>
+    <button type="button" class="icon-btn" id="dock-next" aria-label="Next">⟩⟩</button>
+  </div>
+  <div class="dock-seek">
+    <span id="dock-cur">0:00</span>
+    <input id="dock-seek" class="seek" type="range" min="0" max="0" value="0" step="0.1" aria-label="Seek">
+    <span id="dock-dur">0:00</span>
+  </div>
+</div>
+
+</main>
+<footer class="site-footer">
+  <nav class="foot-nav" aria-label="Footer"><a href="index.html">Home</a><a href="about.html">About</a><a href="songs.html">Songs</a><a href="listen.html" aria-current=page>Listen</a><a href="playlists.html">Playlists</a><a href="churches-schools.html">For Churches &amp; Schools</a><a href="contact.html">Contact</a></nav>
+  <p class="foot-tag">God&#x27;s Word, carried on a melody</p>
+  <p><a href="mailto:songs@singingscripturebible.com">songs@singingscripturebible.com</a> · PO Box 2104, Oshkosh, WI 54903</p>
+  <p class="small kjv-note">Scripture words on this site and in the song pictures are from the King James Version (KJV), which is in the public domain in the United States. In the United Kingdom, rights in the KJV are vested in the Crown.</p>
+  <p class="small">© 2026 Singing Scripture Bible LLC · Oshkosh, Wisconsin. This notice covers the site&#x27;s artwork and design only.</p>
+  <p class="small">Song plays are counted anonymously. No cookies, no personal information.</p>
+</footer>
+<audio id="player-audio" playsinline webkit-playsinline preload="metadata"></audio>
+<script src="assets/lite-yt.js" defer></script>
+<script data-goatcounter="https://singingscripture.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+<script src="assets/player.js" defer></script>
+</body>
+</html>

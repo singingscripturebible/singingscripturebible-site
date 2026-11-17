@@ -1,0 +1,723 @@
+{
+  "artist": "Singing Scripture",
+  "encoding": "160 kbps CBR MP3, 44.1 kHz, stereo",
+  "songs": [
+    {
+      "id": "K2K1Wu4t5ic",
+      "title": "Let Us Make Man",
+      "passage": "Genesis 1:24–2:3",
+      "slug": "genesis-1-24-2-3",
+      "translation": "KJV",
+      "src": "assets/audio/K2K1Wu4t5ic.mp3",
+      "artwork": "assets/img/songs/K2K1Wu4t5ic-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=K2K1Wu4t5ic",
+      "duration": 209.789,
+      "bytes": 4196354
+    },
+    {
+      "id": "85cKRyXdxl4",
+      "title": "Be Strong and of a Good Courage",
+      "passage": "Joshua 1:1–9",
+      "slug": "joshua-1-1-9",
+      "translation": "KJV",
+      "src": "assets/audio/85cKRyXdxl4.mp3",
+      "artwork": "assets/img/songs/85cKRyXdxl4-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=85cKRyXdxl4",
+      "duration": 198.635,
+      "bytes": 3973268
+    },
+    {
+      "id": "sKF9hwq3fCk",
+      "title": "All That Thou Commandest Us We Will Do",
+      "passage": "Joshua 1:10–18",
+      "slug": "joshua-1-10-18",
+      "translation": "KJV",
+      "src": "assets/audio/sKF9hwq3fCk.mp3",
+      "artwork": "assets/img/songs/sKF9hwq3fCk-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=sKF9hwq3fCk",
+      "duration": 159.922,
+      "bytes": 3198999
+    },
+    {
+      "id": "EhhC_IDmA6w",
+      "title": "Blessed Is the Man",
+      "passage": "Psalm 1",
+      "slug": "psalm-1",
+      "translation": "KJV",
+      "src": "assets/audio/EhhC_IDmA6w.mp3",
+      "artwork": "assets/img/songs/EhhC_IDmA6w-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=EhhC_IDmA6w",
+      "duration": 164.833,
+      "bytes": 3297219
+    },
+    {
+      "id": "QfDeekjcPwI",
+      "title": "The Lord Is My Shepherd",
+      "passage": "Psalm 23",
+      "slug": "psalm-23",
+      "translation": "KJV-Based",
+      "src": "assets/audio/QfDeekjcPwI.mp3",
+      "artwork": "assets/img/songs/QfDeekjcPwI-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=QfDeekjcPwI",
+      "duration": 212.532,
+      "bytes": 4251211
+    },
+    {
+      "id": "mYEGf1unIdE",
+      "title": "Whom Shall I Fear?",
+      "passage": "Psalm 27",
+      "slug": "psalm-27",
+      "translation": "KJV",
+      "src": "assets/audio/mYEGf1unIdE.mp3",
+      "artwork": "assets/img/songs/mYEGf1unIdE-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=mYEGf1unIdE",
+      "duration": 236.33,
+      "bytes": 4727162
+    },
+    {
+      "id": "Qdvj3wZx44I",
+      "title": "Fret Not Thyself",
+      "passage": "Psalm 37:1–20",
+      "slug": "psalm-37-1-20",
+      "translation": "KJV",
+      "src": "assets/audio/Qdvj3wZx44I.mp3",
+      "artwork": "assets/img/songs/Qdvj3wZx44I-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=Qdvj3wZx44I",
+      "duration": 237.897,
+      "bytes": 4758509
+    },
+    {
+      "id": "b7tSyfkSsS0",
+      "title": "He Only Is My Rock",
+      "passage": "Psalm 62:1–12",
+      "slug": "psalm-62-1-12",
+      "translation": "KJV",
+      "src": "assets/audio/b7tSyfkSsS0.mp3",
+      "artwork": "assets/img/songs/b7tSyfkSsS0-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=b7tSyfkSsS0",
+      "duration": 215.118,
+      "bytes": 4302933
+    },
+    {
+      "id": "46h0IUAItHQ",
+      "title": "Under the Shadow of the Almighty",
+      "passage": "Psalm 91",
+      "slug": "psalm-91",
+      "translation": "KJV-Based",
+      "src": "assets/audio/46h0IUAItHQ.mp3",
+      "artwork": "assets/img/songs/46h0IUAItHQ-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=46h0IUAItHQ",
+      "duration": 264.829,
+      "bytes": 5297154
+    },
+    {
+      "id": "P1u1y6pP5lg",
+      "title": "Make a Joyful Noise",
+      "passage": "Psalm 100",
+      "slug": "psalm-100",
+      "translation": "KJV",
+      "src": "assets/audio/P1u1y6pP5lg.mp3",
+      "artwork": "assets/img/songs/P1u1y6pP5lg-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=P1u1y6pP5lg",
+      "duration": 69.198,
+      "bytes": 1384533
+    },
+    {
+      "id": "lnpHOuFGH2o",
+      "title": "Forget None of His Benefits",
+      "passage": "Psalm 103",
+      "slug": "psalm-103",
+      "translation": "KJV",
+      "src": "assets/audio/lnpHOuFGH2o.mp3",
+      "artwork": "assets/img/songs/lnpHOuFGH2o-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=lnpHOuFGH2o",
+      "duration": 262.374,
+      "bytes": 5248044
+    },
+    {
+      "id": "qChDVi_ghQE",
+      "title": "Up to the Hills I Raise My Eyes",
+      "passage": "Psalm 121",
+      "slug": "psalm-121",
+      "translation": "KJV",
+      "src": "assets/audio/qChDVi_ghQE.mp3",
+      "artwork": "assets/img/songs/qChDVi_ghQE-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=qChDVi_ghQE",
+      "duration": 156.996,
+      "bytes": 3140484
+    },
+    {
+      "id": "mF0hYg8ZthE",
+      "title": "Thou Hast Searched Me and Known Me",
+      "passage": "Psalm 139",
+      "slug": "psalm-139",
+      "translation": "KJV-Based",
+      "src": "assets/audio/mF0hYg8ZthE.mp3",
+      "artwork": "assets/img/songs/mF0hYg8ZthE-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=mF0hYg8ZthE",
+      "duration": 263.236,
+      "bytes": 5265284
+    },
+    {
+      "id": "Xz5OpyJ6Sss",
+      "title": "Trust in the Lord",
+      "passage": "Proverbs 3:1–20",
+      "slug": "proverbs-3-1-20",
+      "translation": "KJV",
+      "src": "assets/audio/Xz5OpyJ6Sss.mp3",
+      "artwork": "assets/img/songs/Xz5OpyJ6Sss-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=Xz5OpyJ6Sss",
+      "duration": 232.046,
+      "bytes": 4641480
+    },
+    {
+      "id": "KsdmGN2QRnA",
+      "title": "A Virtuous Woman",
+      "passage": "Proverbs 31",
+      "slug": "proverbs-31",
+      "translation": "KJV",
+      "src": "assets/audio/KsdmGN2QRnA.mp3",
+      "artwork": "assets/img/songs/KsdmGN2QRnA-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=KsdmGN2QRnA",
+      "duration": 292.754,
+      "bytes": 5855652
+    },
+    {
+      "id": "IqNwsdGzr2I",
+      "title": "Behold, a Virgin Shall Conceive",
+      "passage": "Isaiah 7:10–16",
+      "slug": "isaiah-7-10-16",
+      "translation": "KJV",
+      "src": "assets/audio/IqNwsdGzr2I.mp3",
+      "artwork": "assets/img/songs/IqNwsdGzr2I-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=IqNwsdGzr2I",
+      "duration": 119.249,
+      "bytes": 2385546
+    },
+    {
+      "id": "JeKRbaRXR7o",
+      "title": "Unto Us a Child Is Born",
+      "passage": "Isaiah 9:1–7",
+      "slug": "isaiah-9-1-7",
+      "translation": "KJV",
+      "src": "assets/audio/JeKRbaRXR7o.mp3",
+      "artwork": "assets/img/songs/JeKRbaRXR7o-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=JeKRbaRXR7o",
+      "duration": 196.232,
+      "bytes": 3925203
+    },
+    {
+      "id": "ACLZWIneLAY",
+      "title": "His Hand Is Stretched Out Still",
+      "passage": "Isaiah 9:8–21",
+      "slug": "isaiah-9-8-21",
+      "translation": "KJV",
+      "src": "assets/audio/ACLZWIneLAY.mp3",
+      "artwork": "assets/img/songs/ACLZWIneLAY-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=ACLZWIneLAY",
+      "duration": 298.397,
+      "bytes": 5968501
+    },
+    {
+      "id": "EkTL-9Ee900",
+      "title": "A Rod Out of the Stem of Jesse",
+      "passage": "Isaiah 11:1–10",
+      "slug": "isaiah-11-1-10",
+      "translation": "KJV",
+      "src": "assets/audio/EkTL-9Ee900.mp3",
+      "artwork": "assets/img/songs/EkTL-9Ee900-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=EkTL-9Ee900",
+      "duration": 229.198,
+      "bytes": 4584533
+    },
+    {
+      "id": "XzjHT_nU6ro",
+      "title": "Comfort Ye My People",
+      "passage": "Isaiah 40:1–11",
+      "slug": "isaiah-40-1-11",
+      "translation": "KJV",
+      "src": "assets/audio/XzjHT_nU6ro.mp3",
+      "artwork": "assets/img/songs/XzjHT_nU6ro-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=XzjHT_nU6ro",
+      "duration": 237.636,
+      "bytes": 4753284
+    },
+    {
+      "id": "YkOr9IcCH5o",
+      "title": "The Man of Sorrows",
+      "passage": "Isaiah 52:13–53:12",
+      "slug": "isaiah-52-13-53-12",
+      "translation": "KJV",
+      "src": "assets/audio/YkOr9IcCH5o.mp3",
+      "artwork": "assets/img/songs/YkOr9IcCH5o-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=YkOr9IcCH5o",
+      "duration": 314.122,
+      "bytes": 6283015
+    },
+    {
+      "id": "kUg0oVu7CbI",
+      "title": "Thou, Bethlehem Ephratah",
+      "passage": "Micah 5:2–5a",
+      "slug": "micah-5-2-5a",
+      "translation": "KJV",
+      "src": "assets/audio/kUg0oVu7CbI.mp3",
+      "artwork": "assets/img/songs/kUg0oVu7CbI-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=kUg0oVu7CbI",
+      "duration": 102.243,
+      "bytes": 2045431
+    },
+    {
+      "id": "7Fz3qDVsj64",
+      "title": "Thou Shalt Call His Name Jesus",
+      "passage": "Matthew 1:18–25",
+      "slug": "matthew-1-18-25",
+      "translation": "KJV",
+      "src": "assets/audio/7Fz3qDVsj64.mp3",
+      "artwork": "assets/img/songs/7Fz3qDVsj64-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=7Fz3qDVsj64",
+      "duration": 171.154,
+      "bytes": 3423652
+    },
+    {
+      "id": "P5Bgv-Bnty0",
+      "title": "We Have Seen His Star",
+      "passage": "Matthew 2:1–12",
+      "slug": "matthew-2-1-12",
+      "translation": "KJV",
+      "src": "assets/audio/P5Bgv-Bnty0.mp3",
+      "artwork": "assets/img/songs/P5Bgv-Bnty0-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=P5Bgv-Bnty0",
+      "duration": 227.866,
+      "bytes": 4557888
+    },
+    {
+      "id": "JZVC-PNuyIY",
+      "title": "Take the Young Child and His Mother",
+      "passage": "Matthew 2:13–23",
+      "slug": "matthew-2-13-23",
+      "translation": "KJV",
+      "src": "assets/audio/JZVC-PNuyIY.mp3",
+      "artwork": "assets/img/songs/JZVC-PNuyIY-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=JZVC-PNuyIY",
+      "duration": 239.961,
+      "bytes": 4799782
+    },
+    {
+      "id": "ATiM7toaDIE",
+      "title": "Our Father Which Art in Heaven",
+      "passage": "Matthew 6:5–18",
+      "slug": "matthew-6-5-18",
+      "translation": "KJV",
+      "src": "assets/audio/ATiM7toaDIE.mp3",
+      "artwork": "assets/img/songs/ATiM7toaDIE-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=ATiM7toaDIE",
+      "duration": 253.205,
+      "bytes": 5064664
+    },
+    {
+      "id": "eYlKw3zDAwI",
+      "title": "Hail, Thou That Art Highly Favoured",
+      "passage": "Luke 1:26–38",
+      "slug": "luke-1-26-38",
+      "translation": "KJV",
+      "src": "assets/audio/eYlKw3zDAwI.mp3",
+      "artwork": "assets/img/songs/eYlKw3zDAwI-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=eYlKw3zDAwI",
+      "duration": 214.073,
+      "bytes": 4282035
+    },
+    {
+      "id": "FdUqTG0sQ_k",
+      "title": "My Soul Doth Magnify the Lord",
+      "passage": "Luke 1:39–56",
+      "slug": "luke-1-39-56",
+      "translation": "KJV",
+      "src": "assets/audio/FdUqTG0sQ_k.mp3",
+      "artwork": "assets/img/songs/FdUqTG0sQ_k-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=FdUqTG0sQ_k",
+      "duration": 217.469,
+      "bytes": 4349954
+    },
+    {
+      "id": "apwiwHSnZXo",
+      "title": "Blessed Be the Lord God of Israel",
+      "passage": "Luke 1:67–79",
+      "slug": "luke-1-67-79",
+      "translation": "KJV",
+      "src": "assets/audio/apwiwHSnZXo.mp3",
+      "artwork": "assets/img/songs/apwiwHSnZXo-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=apwiwHSnZXo",
+      "duration": 167.419,
+      "bytes": 3348942
+    },
+    {
+      "id": "6sTMA6g3oq8",
+      "title": "No Room for Them in the Inn",
+      "passage": "Luke 2:1–7",
+      "slug": "luke-2-1-7",
+      "translation": "KJV",
+      "src": "assets/audio/6sTMA6g3oq8.mp3",
+      "artwork": "assets/img/songs/6sTMA6g3oq8-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=6sTMA6g3oq8",
+      "duration": 99.657,
+      "bytes": 1993709
+    },
+    {
+      "id": "vCae28vdF6I",
+      "title": "Shepherds in the Field",
+      "passage": "Luke 2:8–20",
+      "slug": "luke-2-8-20",
+      "translation": "KJV",
+      "src": "assets/audio/vCae28vdF6I.mp3",
+      "artwork": "assets/img/songs/vCae28vdF6I-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=vCae28vdF6I",
+      "duration": 208.091,
+      "bytes": 4162395
+    },
+    {
+      "id": "FV2qP4txQ9s",
+      "title": "Mine Eyes Have Seen Thy Salvation",
+      "passage": "Luke 2:21–40",
+      "slug": "luke-2-21-40",
+      "translation": "KJV",
+      "src": "assets/audio/FV2qP4txQ9s.mp3",
+      "artwork": "assets/img/songs/FV2qP4txQ9s-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=FV2qP4txQ9s",
+      "duration": 277.029,
+      "bytes": 5541137
+    },
+    {
+      "id": "robJ8BU6ByQ",
+      "title": "In the Beginning Was the Word",
+      "passage": "John 1:1–18",
+      "slug": "john-1-1-18",
+      "translation": "KJV",
+      "src": "assets/audio/robJ8BU6ByQ.mp3",
+      "artwork": "assets/img/songs/robJ8BU6ByQ-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=robJ8BU6ByQ",
+      "duration": 234.397,
+      "bytes": 4688501
+    },
+    {
+      "id": "A0osCM6-vGE",
+      "title": "For God So Loved the World",
+      "passage": "John 3:1–21",
+      "slug": "john-3-1-21",
+      "translation": "KJV",
+      "src": "assets/audio/A0osCM6-vGE.mp3",
+      "artwork": "assets/img/songs/A0osCM6-vGE-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=A0osCM6-vGE",
+      "duration": 314.88,
+      "bytes": 6298166
+    },
+    {
+      "id": "fWaFEiuNoNs",
+      "title": "No Condemnation",
+      "passage": "Romans 8:1–17",
+      "slug": "romans-8-1-17",
+      "translation": "KJV",
+      "src": "assets/audio/fWaFEiuNoNs.mp3",
+      "artwork": "assets/img/songs/fWaFEiuNoNs-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=fWaFEiuNoNs",
+      "duration": 263.236,
+      "bytes": 5265284
+    },
+    {
+      "id": "P9FnLcV5dck",
+      "title": "Nothing Can Separate Us",
+      "passage": "Romans 8:31–39",
+      "slug": "romans-8-31-39",
+      "translation": "KJV",
+      "src": "assets/audio/P9FnLcV5dck.mp3",
+      "artwork": "assets/img/songs/P9FnLcV5dck-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=P9FnLcV5dck",
+      "duration": 160.026,
+      "bytes": 3201088
+    },
+    {
+      "id": "DKxBIJN3Cqg",
+      "title": "The Greatest of These Is Love",
+      "passage": "1 Corinthians 13:1–13",
+      "slug": "1-corinthians-13-1-13",
+      "translation": "KJV",
+      "src": "assets/audio/DKxBIJN3Cqg.mp3",
+      "artwork": "assets/img/songs/DKxBIJN3Cqg-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=DKxBIJN3Cqg",
+      "duration": 205.636,
+      "bytes": 4113284
+    },
+    {
+      "id": "nT8h6eY5yYw",
+      "title": "God Sent Forth His Son",
+      "passage": "Galatians 4:4–7",
+      "slug": "galatians-4-4-7",
+      "translation": "KJV",
+      "src": "assets/audio/nT8h6eY5yYw.mp3",
+      "artwork": "assets/img/songs/nT8h6eY5yYw-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=nT8h6eY5yYw",
+      "duration": 101.251,
+      "bytes": 2025578
+    },
+    {
+      "id": "VT_i_flJTB4",
+      "title": "He Humbled Himself",
+      "passage": "Philippians 2:5–11",
+      "slug": "philippians-2-5-11",
+      "translation": "KJV",
+      "src": "assets/audio/VT_i_flJTB4.mp3",
+      "artwork": "assets/img/songs/VT_i_flJTB4-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=VT_i_flJTB4",
+      "duration": 124.16,
+      "bytes": 2483766
+    },
+    {
+      "id": "2xDxsalNCnw",
+      "title": "God Hath Spoken by His Son",
+      "passage": "Hebrews 1:1–4",
+      "slug": "hebrews-1-1-4",
+      "translation": "KJV",
+      "src": "assets/audio/2xDxsalNCnw.mp3",
+      "artwork": "assets/img/songs/2xDxsalNCnw-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=2xDxsalNCnw",
+      "duration": 92.604,
+      "bytes": 1852648
+    }
+  ],
+  "playlists": [
+    {
+      "id": "all",
+      "title": "All songs",
+      "description": "Every sung passage on the site, in Bible-book order.",
+      "songs": [
+        "K2K1Wu4t5ic",
+        "85cKRyXdxl4",
+        "sKF9hwq3fCk",
+        "EhhC_IDmA6w",
+        "QfDeekjcPwI",
+        "mYEGf1unIdE",
+        "Qdvj3wZx44I",
+        "b7tSyfkSsS0",
+        "46h0IUAItHQ",
+        "P1u1y6pP5lg",
+        "lnpHOuFGH2o",
+        "qChDVi_ghQE",
+        "mF0hYg8ZthE",
+        "Xz5OpyJ6Sss",
+        "KsdmGN2QRnA",
+        "IqNwsdGzr2I",
+        "JeKRbaRXR7o",
+        "ACLZWIneLAY",
+        "EkTL-9Ee900",
+        "XzjHT_nU6ro",
+        "YkOr9IcCH5o",
+        "kUg0oVu7CbI",
+        "7Fz3qDVsj64",
+        "P5Bgv-Bnty0",
+        "JZVC-PNuyIY",
+        "ATiM7toaDIE",
+        "eYlKw3zDAwI",
+        "FdUqTG0sQ_k",
+        "apwiwHSnZXo",
+        "6sTMA6g3oq8",
+        "vCae28vdF6I",
+        "FV2qP4txQ9s",
+        "robJ8BU6ByQ",
+        "A0osCM6-vGE",
+        "fWaFEiuNoNs",
+        "P9FnLcV5dck",
+        "DKxBIJN3Cqg",
+        "nT8h6eY5yYw",
+        "VT_i_flJTB4",
+        "2xDxsalNCnw"
+      ]
+    },
+    {
+      "id": "PLSqkOl-WPfnA",
+      "title": "Quiet Christmas Scripture Songs: Peaceful Songs for the Season",
+      "description": "Nativity prophecies and infancy narratives, starting with the brighter choral moments and ending with Simeon in the temple. This playlist is a mix of exact King James wording and close paraphrase (KJV-Based). These songs make no claims about sleep or health.",
+      "songs": [
+        "JeKRbaRXR7o",
+        "EkTL-9Ee900",
+        "vCae28vdF6I",
+        "6sTMA6g3oq8",
+        "P5Bgv-Bnty0",
+        "eYlKw3zDAwI",
+        "IqNwsdGzr2I",
+        "kUg0oVu7CbI",
+        "7Fz3qDVsj64",
+        "FV2qP4txQ9s"
+      ]
+    },
+    {
+      "id": "PLL0-xgYA7Qe8",
+      "title": "God's Love Scripture Songs: Nothing Can Separate Us",
+      "description": "Songs of God’s care, presence, and love, beginning with the promise that nothing can separate us and settling into the Lord’s Prayer. The first three songs stay in G major; the rest sit in E-flat major. Romans 8:1–17 is KJV-Based; the other songs in this list are exact KJV. These songs make no claims about sleep or health.",
+      "songs": [
+        "P9FnLcV5dck",
+        "XzjHT_nU6ro",
+        "K2K1Wu4t5ic",
+        "fWaFEiuNoNs",
+        "DKxBIJN3Cqg",
+        "nT8h6eY5yYw",
+        "ATiM7toaDIE"
+      ]
+    },
+    {
+      "id": "PLHqcK1TLIER8",
+      "title": "Evening Psalms Scripture Songs: Peaceful Psalms for Night",
+      "description": "Four psalm settings, ordered from a more open start in Psalm 139 toward the simpler two-voice close of Psalm 121. The first three share E-flat major; Psalm 121 moves by a fifth into A-flat major. These songs make no claims about sleep or health.",
+      "songs": [
+        "mF0hYg8ZthE",
+        "46h0IUAItHQ",
+        "QfDeekjcPwI",
+        "qChDVi_ghQE"
+      ]
+    },
+    {
+      "id": "PLA2rN1UHKoD8",
+      "title": "Sleep Scripture Songs: Gentle Bible Songs for Bedtime",
+      "description": "A quieter set of scripture songs for a still evening, moving from being searched and known toward the shepherd, a pilgrim’s psalm, and the Lord’s Prayer. This playlist is a mix of exact King James wording and close paraphrase (KJV-Based). These songs make no claims about sleep or health.",
+      "songs": [
+        "mF0hYg8ZthE",
+        "46h0IUAItHQ",
+        "b7tSyfkSsS0",
+        "mYEGf1unIdE",
+        "XzjHT_nU6ro",
+        "K2K1Wu4t5ic",
+        "Qdvj3wZx44I",
+        "QfDeekjcPwI",
+        "DKxBIJN3Cqg",
+        "ATiM7toaDIE",
+        "qChDVi_ghQE"
+      ]
+    },
+    {
+      "id": "PLRTWbKrERTNg",
+      "title": "Comfort Scripture Songs: Psalms for Hard Days",
+      "description": "Psalms and companion passages set as Singing Scripture songs for anyone who needs a quiet word of shelter, presence, and hope. The psalms in this list, and Romans 8:1–17, are KJV-Based; Romans 8:31–39 is exact KJV. These songs make no claims about sleep or health.",
+      "songs": [
+        "QfDeekjcPwI",
+        "46h0IUAItHQ",
+        "qChDVi_ghQE",
+        "mF0hYg8ZthE",
+        "fWaFEiuNoNs",
+        "P9FnLcV5dck"
+      ]
+    },
+    {
+      "id": "PLVJw-BHcHxdA",
+      "title": "Romans Scripture Songs: No Condemnation in Christ",
+      "description": "Romans 8 in song: no condemnation for those in Christ, and the promise that nothing shall separate us from the love of God. Romans 8:1–17 is KJV-Based because Suno blocked the exact text; Romans 8:31–39 is exact KJV.",
+      "songs": [
+        "fWaFEiuNoNs",
+        "P9FnLcV5dck"
+      ]
+    },
+    {
+      "id": "PLAOLycKD7Lyk",
+      "title": "John Scripture Songs: The Word Made Flesh",
+      "description": "The Gospel of John in song, beginning with the Word made flesh and Nicodemus’s visit. John 1:1–18 is KJV-Based because Suno blocked the exact text; John 3:1–21 is exact KJV.",
+      "songs": [
+        "robJ8BU6ByQ",
+        "A0osCM6-vGE"
+      ]
+    },
+    {
+      "id": "PLQ-smq1_fVy8",
+      "title": "Luke Scripture Songs: The Christmas Story in Luke",
+      "description": "Luke’s nativity and infancy narrative in song, from Gabriel’s greeting to Mary through the manger, the shepherds, and Simeon’s blessing. Five of the six songs are exact KJV; Luke 2:8–20 is KJV-Based because Suno flagged the exact text.",
+      "songs": [
+        "eYlKw3zDAwI",
+        "FdUqTG0sQ_k",
+        "apwiwHSnZXo",
+        "6sTMA6g3oq8",
+        "vCae28vdF6I",
+        "FV2qP4txQ9s"
+      ]
+    },
+    {
+      "id": "PLKsuiff11T30",
+      "title": "Matthew Scripture Songs: The Birth and Teaching of Jesus",
+      "description": "Matthew in song, from the birth and childhood of Jesus to the Sermon on the Mount. Matthew 1:18–25 and 6:5–18 are exact KJV; Matthew 2:1–12 and 2:13–23 are KJV-Based because Suno blocked the exact text.",
+      "songs": [
+        "7Fz3qDVsj64",
+        "P5Bgv-Bnty0",
+        "JZVC-PNuyIY",
+        "ATiM7toaDIE"
+      ]
+    },
+    {
+      "id": "PLGSQQqmmT23o",
+      "title": "Isaiah Scripture Songs: Comfort, Hope and the Coming King",
+      "description": "Isaiah in song, from the virgin sign and the child who is born, through comfort to Zion and the man of sorrows. Most songs here are exact KJV; Isaiah 11:1–10 is KJV-Based because Suno blocked the exact text.",
+      "songs": [
+        "IqNwsdGzr2I",
+        "JeKRbaRXR7o",
+        "ACLZWIneLAY",
+        "EkTL-9Ee900",
+        "XzjHT_nU6ro",
+        "YkOr9IcCH5o"
+      ]
+    },
+    {
+      "id": "PLWB9lf-eu7YI",
+      "title": "Proverbs Scripture Songs: Trust in the Lord",
+      "description": "Proverbs in song: a father’s charge to trust in the LORD with all thine heart, and a mother’s portrait of a virtuous woman whose worth exceedeth rubies. Proverbs 3:1–20 is exact KJV; Proverbs 31 is KJV-Based because Suno blocked the exact text.",
+      "songs": [
+        "Xz5OpyJ6Sss",
+        "KsdmGN2QRnA"
+      ]
+    },
+    {
+      "id": "PLTa0i3AJbNO4",
+      "title": "Psalms Scripture Songs: Psalm 23, 91, 121, 139 and More",
+      "description": "Psalms set as Singing Scripture songs, from the two ways of Psalm 1 through being searched and known in Psalm 139. This playlist is a mix of exact King James wording and close paraphrase (KJV-Based), used where Suno blocked the exact text.",
+      "songs": [
+        "EhhC_IDmA6w",
+        "QfDeekjcPwI",
+        "mYEGf1unIdE",
+        "Qdvj3wZx44I",
+        "b7tSyfkSsS0",
+        "46h0IUAItHQ",
+        "P1u1y6pP5lg",
+        "lnpHOuFGH2o",
+        "qChDVi_ghQE",
+        "mF0hYg8ZthE"
+      ]
+    },
+    {
+      "id": "PLHgxWRygk8Kk",
+      "title": "Joshua Scripture Songs: Be Strong and of a Good Courage",
+      "description": "Joshua’s first charge in song: after Moses is dead, the LORD tells Joshua to be strong and of a good courage, and the people answer that they will do all that he commands. This playlist is exact King James wording.",
+      "songs": [
+        "85cKRyXdxl4",
+        "sKF9hwq3fCk"
+      ]
+    },
+    {
+      "id": "PLegw7--HBuVw",
+      "title": "Christmas Scripture Songs: The Birth of Jesus",
+      "description": "From the first promises of a child and a ruler out of Bethlehem, to the manger, the shepherds, and the Word made flesh, these Singing Scripture songs set the Christmas story in the words of the King James Bible. Walk the season from Isaiah and Micah through the annunciation and the nativity, then to the meaning of the Incarnation. New songs will be added as each one is published; Isaiah 9:1–7 is already here.",
+      "songs": [
+        "IqNwsdGzr2I",
+        "JeKRbaRXR7o",
+        "EkTL-9Ee900",
+        "kUg0oVu7CbI",
+        "XzjHT_nU6ro",
+        "eYlKw3zDAwI",
+        "FdUqTG0sQ_k",
+        "apwiwHSnZXo",
+        "7Fz3qDVsj64",
+        "6sTMA6g3oq8",
+        "vCae28vdF6I",
+        "FV2qP4txQ9s",
+        "P5Bgv-Bnty0",
+        "JZVC-PNuyIY",
+        "robJ8BU6ByQ",
+        "nT8h6eY5yYw",
+        "VT_i_flJTB4",
+        "2xDxsalNCnw"
+      ]
+    }
+  ]
+}
