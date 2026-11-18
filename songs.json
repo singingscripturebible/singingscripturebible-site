@@ -303,6 +303,18 @@
       "bytes": 6283015
     },
     {
+      "id": "nvzq8FJJuUw",
+      "title": "Thoughts of Peace",
+      "passage": "Jeremiah 29:1–14",
+      "slug": "jeremiah-29-1-14",
+      "translation": "KJV",
+      "src": "assets/audio/nvzq8FJJuUw.mp3",
+      "artwork": "assets/img/songs/nvzq8FJJuUw-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=nvzq8FJJuUw",
+      "duration": 283.742,
+      "bytes": 5675407
+    },
+    {
       "id": "kUg0oVu7CbI",
       "title": "Thou, Bethlehem Ephratah",
       "passage": "Micah 5:2–5a",
@@ -349,6 +361,18 @@
       "youtube": "https://www.youtube.com/watch?v=JZVC-PNuyIY",
       "duration": 239.961,
       "bytes": 4799782
+    },
+    {
+      "id": "XLxk0k5Vmus",
+      "title": "The Beatitudes",
+      "passage": "Matthew 5:1–16",
+      "slug": "matthew-5-1-16",
+      "translation": "KJV-Based",
+      "src": "assets/audio/XLxk0k5Vmus.mp3",
+      "artwork": "assets/img/songs/XLxk0k5Vmus-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=XLxk0k5Vmus",
+      "duration": 168.176,
+      "bytes": 3364093
     },
     {
       "id": "ATiM7toaDIE",
@@ -562,10 +586,12 @@
         "U65siRusFdM",
         "FIm6mN4yqYY",
         "YkOr9IcCH5o",
+        "nvzq8FJJuUw",
         "kUg0oVu7CbI",
         "7Fz3qDVsj64",
         "P5Bgv-Bnty0",
         "JZVC-PNuyIY",
+        "XLxk0k5Vmus",
         "ATiM7toaDIE",
         "eYlKw3zDAwI",
         "FdUqTG0sQ_k",
@@ -695,7 +721,8 @@
         "7Fz3qDVsj64",
         "P5Bgv-Bnty0",
         "JZVC-PNuyIY",
-        "ATiM7toaDIE"
+        "ATiM7toaDIE",
+        "XLxk0k5Vmus"
       ]
     },
     {
@@ -709,6 +736,8 @@
         "EkTL-9Ee900",
         "XzjHT_nU6ro",
         "NmcetgbH3mk",
+        "U65siRusFdM",
+        "FIm6mN4yqYY",
         "YkOr9IcCH5o"
       ]
     },
