@@ -375,6 +375,30 @@
       "bytes": 3364093
     },
     {
+      "id": "E22VdiLpeVM",
+      "title": "I Am Come to Fulfil",
+      "passage": "Matthew 5:17–32",
+      "slug": "matthew-5-17-32",
+      "translation": "KJV",
+      "src": "assets/audio/E22VdiLpeVM.mp3",
+      "artwork": "assets/img/songs/E22VdiLpeVM-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=E22VdiLpeVM",
+      "duration": 327.706,
+      "bytes": 6554688
+    },
+    {
+      "id": "N2obLCeTFss",
+      "title": "Love Your Enemies",
+      "passage": "Matthew 5:33–6:4",
+      "slug": "matthew-5-33-6-4",
+      "translation": "KJV",
+      "src": "assets/audio/N2obLCeTFss.mp3",
+      "artwork": "assets/img/songs/N2obLCeTFss-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=N2obLCeTFss",
+      "duration": 299.677,
+      "bytes": 5994101
+    },
+    {
       "id": "ATiM7toaDIE",
       "title": "Our Father Which Art in Heaven",
       "passage": "Matthew 6:5–18",
@@ -592,6 +616,8 @@
         "P5Bgv-Bnty0",
         "JZVC-PNuyIY",
         "XLxk0k5Vmus",
+        "E22VdiLpeVM",
+        "N2obLCeTFss",
         "ATiM7toaDIE",
         "eYlKw3zDAwI",
         "FdUqTG0sQ_k",
@@ -722,7 +748,9 @@
         "P5Bgv-Bnty0",
         "JZVC-PNuyIY",
         "ATiM7toaDIE",
-        "XLxk0k5Vmus"
+        "XLxk0k5Vmus",
+        "E22VdiLpeVM",
+        "N2obLCeTFss"
       ]
     },
     {
