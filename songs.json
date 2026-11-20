@@ -411,6 +411,30 @@
       "bytes": 5064664
     },
     {
+      "id": "fcyT7yEZVFE",
+      "title": "Seek Ye First the Kingdom",
+      "passage": "Matthew 6:19–34",
+      "slug": "matthew-6-19-34",
+      "translation": "KJV-Based",
+      "src": "assets/audio/fcyT7yEZVFE.mp3",
+      "artwork": "assets/img/songs/fcyT7yEZVFE-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=fcyT7yEZVFE",
+      "duration": 255.138,
+      "bytes": 5103325
+    },
+    {
+      "id": "EYK2imnD5Po",
+      "title": "Judge Not",
+      "passage": "Matthew 7:1–12",
+      "slug": "matthew-7-1-12",
+      "translation": "KJV",
+      "src": "assets/audio/EYK2imnD5Po.mp3",
+      "artwork": "assets/img/songs/EYK2imnD5Po-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=EYK2imnD5Po",
+      "duration": 172.591,
+      "bytes": 3452386
+    },
+    {
       "id": "eYlKw3zDAwI",
       "title": "Hail, Thou That Art Highly Favoured",
       "passage": "Luke 1:26–38",
@@ -619,6 +643,8 @@
         "E22VdiLpeVM",
         "N2obLCeTFss",
         "ATiM7toaDIE",
+        "fcyT7yEZVFE",
+        "EYK2imnD5Po",
         "eYlKw3zDAwI",
         "FdUqTG0sQ_k",
         "apwiwHSnZXo",
@@ -750,7 +776,9 @@
         "ATiM7toaDIE",
         "XLxk0k5Vmus",
         "E22VdiLpeVM",
-        "N2obLCeTFss"
+        "N2obLCeTFss",
+        "fcyT7yEZVFE",
+        "EYK2imnD5Po"
       ]
     },
     {
