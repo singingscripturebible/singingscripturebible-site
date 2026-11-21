@@ -435,6 +435,18 @@
       "bytes": 3452386
     },
     {
+      "id": "9kDx-MiWMxk",
+      "title": "I Have Not Found So Great Faith",
+      "passage": "Matthew 8:1–13",
+      "slug": "matthew-8-1-13",
+      "translation": "KJV",
+      "src": "assets/audio/9kDx-MiWMxk.mp3",
+      "artwork": "assets/img/songs/9kDx-MiWMxk-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=9kDx-MiWMxk",
+      "duration": 212.506,
+      "bytes": 4250688
+    },
+    {
       "id": "eYlKw3zDAwI",
       "title": "Hail, Thou That Art Highly Favoured",
       "passage": "Luke 1:26–38",
@@ -529,6 +541,18 @@
       "youtube": "https://www.youtube.com/watch?v=A0osCM6-vGE",
       "duration": 314.88,
       "bytes": 6298166
+    },
+    {
+      "id": "GrnYA8IfqLs",
+      "title": "He Must Increase",
+      "passage": "John 3:22–36",
+      "slug": "john-3-22-36",
+      "translation": "KJV",
+      "src": "assets/audio/GrnYA8IfqLs.mp3",
+      "artwork": "assets/img/songs/GrnYA8IfqLs-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=GrnYA8IfqLs",
+      "duration": 199.967,
+      "bytes": 3999913
     },
     {
       "id": "fWaFEiuNoNs",
@@ -645,6 +669,7 @@
         "ATiM7toaDIE",
         "fcyT7yEZVFE",
         "EYK2imnD5Po",
+        "9kDx-MiWMxk",
         "eYlKw3zDAwI",
         "FdUqTG0sQ_k",
         "apwiwHSnZXo",
@@ -653,6 +678,7 @@
         "FV2qP4txQ9s",
         "robJ8BU6ByQ",
         "A0osCM6-vGE",
+        "GrnYA8IfqLs",
         "fWaFEiuNoNs",
         "P9FnLcV5dck",
         "DKxBIJN3Cqg",
@@ -749,7 +775,8 @@
       "description": "The Gospel of John in song, beginning with the Word made flesh and Nicodemus’s visit. John 1:1–18 is KJV-Based because Suno blocked the exact text; John 3:1–21 is exact KJV.",
       "songs": [
         "robJ8BU6ByQ",
-        "A0osCM6-vGE"
+        "A0osCM6-vGE",
+        "GrnYA8IfqLs"
       ]
     },
     {
@@ -778,7 +805,8 @@
         "E22VdiLpeVM",
         "N2obLCeTFss",
         "fcyT7yEZVFE",
-        "EYK2imnD5Po"
+        "EYK2imnD5Po",
+        "9kDx-MiWMxk"
       ]
     },
     {
