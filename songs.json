@@ -555,6 +555,30 @@
       "bytes": 3999913
     },
     {
+      "id": "lOvmmntGBTI",
+      "title": "Rise, Take Up Thy Bed, and Walk",
+      "passage": "John 4:31–5:9",
+      "slug": "john-4-31-5-9",
+      "translation": "KJV",
+      "src": "assets/audio/lOvmmntGBTI.mp3",
+      "artwork": "assets/img/songs/lOvmmntGBTI-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=lOvmmntGBTI",
+      "duration": 348.682,
+      "bytes": 6974215
+    },
+    {
+      "id": "f4HxLWa52rU",
+      "title": "My Father Worketh Hitherto",
+      "passage": "John 5:10–38",
+      "slug": "john-5-10-38",
+      "translation": "KJV",
+      "src": "assets/audio/f4HxLWa52rU.mp3",
+      "artwork": "assets/img/songs/f4HxLWa52rU-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=f4HxLWa52rU",
+      "duration": 337.868,
+      "bytes": 6757921
+    },
+    {
       "id": "fWaFEiuNoNs",
       "title": "No Condemnation",
       "passage": "Romans 8:1–17",
@@ -679,6 +703,8 @@
         "robJ8BU6ByQ",
         "A0osCM6-vGE",
         "GrnYA8IfqLs",
+        "lOvmmntGBTI",
+        "f4HxLWa52rU",
         "fWaFEiuNoNs",
         "P9FnLcV5dck",
         "DKxBIJN3Cqg",
@@ -776,7 +802,9 @@
       "songs": [
         "robJ8BU6ByQ",
         "A0osCM6-vGE",
-        "GrnYA8IfqLs"
+        "GrnYA8IfqLs",
+        "lOvmmntGBTI",
+        "f4HxLWa52rU"
       ]
     },
     {
