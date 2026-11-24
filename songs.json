@@ -591,6 +591,30 @@
       "bytes": 6133595
     },
     {
+      "id": "Qk-MiGKOHR0",
+      "title": "I Am the Bread of Life",
+      "passage": "John 6:22–51",
+      "slug": "john-6-22-51",
+      "translation": "KJV",
+      "src": "assets/audio/Qk-MiGKOHR0.mp3",
+      "artwork": "assets/img/songs/Qk-MiGKOHR0-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=Qk-MiGKOHR0",
+      "duration": 338.495,
+      "bytes": 6770460
+    },
+    {
+      "id": "d9_UFTmipmA",
+      "title": "Lord, to Whom Shall We Go",
+      "passage": "John 6:52–7:9",
+      "slug": "john-6-52-7-9",
+      "translation": "KJV",
+      "src": "assets/audio/d9_UFTmipmA.mp3",
+      "artwork": "assets/img/songs/d9_UFTmipmA-yt-640.webp",
+      "youtube": "https://www.youtube.com/watch?v=d9_UFTmipmA",
+      "duration": 287.53,
+      "bytes": 5751162
+    },
+    {
       "id": "fWaFEiuNoNs",
       "title": "No Condemnation",
       "passage": "Romans 8:1–17",
@@ -718,6 +742,8 @@
         "lOvmmntGBTI",
         "f4HxLWa52rU",
         "1yOOwZ5tms8",
+        "Qk-MiGKOHR0",
+        "d9_UFTmipmA",
         "fWaFEiuNoNs",
         "P9FnLcV5dck",
         "DKxBIJN3Cqg",
@@ -818,7 +844,9 @@
         "GrnYA8IfqLs",
         "lOvmmntGBTI",
         "f4HxLWa52rU",
-        "1yOOwZ5tms8"
+        "1yOOwZ5tms8",
+        "Qk-MiGKOHR0",
+        "d9_UFTmipmA"
       ]
     },
     {
